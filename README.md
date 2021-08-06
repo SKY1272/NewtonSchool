@@ -1,0 +1,2 @@
+# NewtonSchool
+practice coding questions
